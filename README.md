@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img src="https://komarev.com/ghpvc/?username=awwsman&label=Profile%20views&color=0e75b6&style=flat" alt="awwsman" />
 
-<p align="left"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif> </p>
+<p align="left"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awwsman" alt="awwsman" /></a> </p>
 
